@@ -1,4 +1,4 @@
-title: 𝐖𝐞𝐧𝐤𝐚𝐢'𝐬 # 站点标题
+title: 余音 # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   一位普通学生<br/>
   用博客记录生活<br/>
@@ -55,12 +55,12 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                href="https://s1.ax1x.com/2020/10/25/Bm3VmR.jpg"
+                href="https://z3.ax1x.com/2021/05/02/gZ71Ff.png"
               />
               <link
                 rel="shortcut
                 icon"
-                href="https://s1.ax1x.com/2020/10/25/Bm3VmR.jpg"
+                href="https://z3.ax1x.com/2021/05/02/gZ71Ff.png"
               />
             - | # 来自lanyon的页面样式，不要改
               <link
